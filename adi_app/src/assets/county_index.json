@@ -1,0 +1,284 @@
+[
+ {
+   "COUNTY": "NAIROBI",
+   "Index": 73.7193946675291,
+   "N_BREAK": 98815,
+   "percentage_index": -5.9697121495978e-7
+ },
+ {
+   "COUNTY": "MOMBASA",
+   "Index": 81.0518897208363,
+   "N_BREAK": 26912,
+   "percentage_index": 13.1659288908185
+ },
+ {
+   "COUNTY": "KIAMBU",
+   "Index": 85.3205844016684,
+   "N_BREAK": 47015,
+   "percentage_index": 20.8306232089402
+ },
+ {
+   "COUNTY": "NAKURU",
+   "Index": 92.6340223115176,
+   "N_BREAK": 41105,
+   "percentage_index": 33.9623344660755
+ },
+ {
+   "COUNTY": "UASIN GISHU",
+   "Index": 93.561034378229,
+   "N_BREAK": 20455,
+   "percentage_index": 35.6268395787176
+ },
+ {
+   "COUNTY": "NYERI",
+   "Index": 94.6158410234006,
+   "N_BREAK": 20207,
+   "percentage_index": 37.5208074317634
+ },
+ {
+   "COUNTY": "KAJIADO",
+   "Index": 94.9100829272436,
+   "N_BREAK": 17390,
+   "percentage_index": 38.0491362107378
+ },
+ {
+   "COUNTY": "MACHAKOS",
+   "Index": 97.2724278072163,
+   "N_BREAK": 26491,
+   "percentage_index": 42.2908664661894
+ },
+ {
+   "COUNTY": "KISUMU",
+   "Index": 98.397327787799,
+   "N_BREAK": 22719,
+   "percentage_index": 44.3106910576138
+ },
+ {
+   "COUNTY": "KIRINYAGA",
+   "Index": 98.494385090809,
+   "N_BREAK": 15440,
+   "percentage_index": 44.4849631980537
+ },
+ {
+   "COUNTY": "TAITA TAVETA",
+   "Index": 100.09852772252,
+   "N_BREAK": 7124,
+   "percentage_index": 47.3652963757677
+ },
+ {
+   "COUNTY": "LAIKIPIA",
+   "Index": 100.146121926605,
+   "N_BREAK": 10350,
+   "percentage_index": 47.4507545902572
+ },
+ {
+   "COUNTY": "NYANDARUA",
+   "Index": 100.216279478957,
+   "N_BREAK": 14412,
+   "percentage_index": 47.5767266339604
+ },
+ {
+   "COUNTY": "EMBU",
+   "Index": 100.422443454544,
+   "N_BREAK": 13192,
+   "percentage_index": 47.9469062720996
+ },
+ {
+   "COUNTY": "MERU",
+   "Index": 102.013993524201,
+   "N_BREAK": 32043,
+   "percentage_index": 50.8046287582457
+ },
+ {
+   "COUNTY": "MURANG'A",
+   "Index": 102.513664389384,
+   "N_BREAK": 25597,
+   "percentage_index": 51.7018174137144
+ },
+ {
+   "COUNTY": "KERICHO",
+   "Index": 102.532368259082,
+   "N_BREAK": 16059,
+   "percentage_index": 51.7354013203934
+ },
+ {
+   "COUNTY": "TRANS NZOIA",
+   "Index": 103.299766758101,
+   "N_BREAK": 17047,
+   "percentage_index": 53.1133108114556
+ },
+ {
+   "COUNTY": "MAKUENI",
+   "Index": 104.159284153817,
+   "N_BREAK": 18675,
+   "percentage_index": 54.6566252417085
+ },
+ {
+   "COUNTY": "THARAKA",
+   "Index": 104.621172264338,
+   "N_BREAK": 8895,
+   "percentage_index": 55.4859727216807
+ },
+ {
+   "COUNTY": "NYAMIRA",
+   "Index": 104.91022025661,
+   "N_BREAK": 13122,
+   "percentage_index": 56.0049755245699
+ },
+ {
+   "COUNTY": "NANDI",
+   "Index": 105.269279614289,
+   "N_BREAK": 15447,
+   "percentage_index": 56.6496878838377
+ },
+ {
+   "COUNTY": "KISII",
+   "Index": 105.534738358796,
+   "N_BREAK": 24544,
+   "percentage_index": 57.126334794157
+ },
+ {
+   "COUNTY": "VIHIGA",
+   "Index": 106.026748438001,
+   "N_BREAK": 12357,
+   "percentage_index": 58.0097680543236
+ },
+ {
+   "COUNTY": "LAMU",
+   "Index": 106.377501372656,
+   "N_BREAK": 2239,
+   "percentage_index": 58.6395657387039
+ },
+ {
+   "COUNTY": "KILIFI",
+   "Index": 106.436146979495,
+   "N_BREAK": 20021,
+   "percentage_index": 58.744867401888
+ },
+ {
+   "COUNTY": "KAKAMEGA",
+   "Index": 106.554177553396,
+   "N_BREAK": 35633,
+   "percentage_index": 58.9567982933637
+ },
+ {
+   "COUNTY": "BUNGOMA",
+   "Index": 106.768762779314,
+   "N_BREAK": 27147,
+   "percentage_index": 59.3420987856275
+ },
+ {
+   "COUNTY": "BOMET",
+   "Index": 107.880733389024,
+   "N_BREAK": 14262,
+   "percentage_index": 61.338707925286
+ },
+ {
+   "COUNTY": "MIGORI",
+   "Index": 108.374943768385,
+   "N_BREAK": 18059,
+   "percentage_index": 62.2260919548005
+ },
+ {
+   "COUNTY": "ISIOLO",
+   "Index": 108.762523377263,
+   "N_BREAK": 3149,
+   "percentage_index": 62.9220141155788
+ },
+ {
+   "COUNTY": "KITUI",
+   "Index": 109.516445567066,
+   "N_BREAK": 20601,
+   "percentage_index": 64.2757260946616
+ },
+ {
+   "COUNTY": "BUSIA",
+   "Index": 109.590193338134,
+   "N_BREAK": 15445,
+   "percentage_index": 64.4081445888724
+ },
+ {
+   "COUNTY": "HOMA BAY",
+   "Index": 109.60283911699,
+   "N_BREAK": 20663,
+   "percentage_index": 64.4308508343619
+ },
+ {
+   "COUNTY": "SIAYA",
+   "Index": 109.639751006577,
+   "N_BREAK": 19937,
+   "percentage_index": 64.4971283199975
+ },
+ {
+   "COUNTY": "KEIYO-MARAKWET",
+   "Index": 110.030441312049,
+   "N_BREAK": 7771,
+   "percentage_index": 65.1986359208913
+ },
+ {
+   "COUNTY": "KWALE",
+   "Index": 112.190720644653,
+   "N_BREAK": 12236,
+   "percentage_index": 69.077545508993
+ },
+ {
+   "COUNTY": "BARINGO",
+   "Index": 112.306750086107,
+   "N_BREAK": 11098,
+   "percentage_index": 69.2858832485466
+ },
+ {
+   "COUNTY": "NAROK",
+   "Index": 114.836692716822,
+   "N_BREAK": 16965,
+   "percentage_index": 73.8285451994907
+ },
+ {
+   "COUNTY": "GARISSA",
+   "Index": 118.715873283703,
+   "N_BREAK": 9910,
+   "percentage_index": 80.7938438383112
+ },
+ {
+   "COUNTY": "TANA RIVER",
+   "Index": 120.165400041464,
+   "N_BREAK": 4748,
+   "percentage_index": 83.3965550497893
+ },
+ {
+   "COUNTY": "WEST POKOT",
+   "Index": 123.558125367935,
+   "N_BREAK": 9394,
+   "percentage_index": 89.4883944707536
+ },
+ {
+   "COUNTY": "MARSABIT",
+   "Index": 123.924448402474,
+   "N_BREAK": 5715,
+   "percentage_index": 90.1461491923624
+ },
+ {
+   "COUNTY": "MANDERA",
+   "Index": 124.124025942563,
+   "N_BREAK": 12558,
+   "percentage_index": 90.5045024951687
+ },
+ {
+   "COUNTY": "SAMBURU",
+   "Index": 124.779128127045,
+   "N_BREAK": 4745,
+   "percentage_index": 91.6807772973312
+ },
+ {
+   "COUNTY": "WAJIR",
+   "Index": 125.004812928225,
+   "N_BREAK": 8867,
+   "percentage_index": 92.0860077348831
+ },
+ {
+   "COUNTY": "TURKANA",
+   "Index": 129.412349387962,
+   "N_BREAK": 12356,
+   "percentage_index": 100.000000696609
+ }
+]
